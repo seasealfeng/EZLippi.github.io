@@ -1,8 +1,8 @@
 ---
 title: 卡夫卡
-date: 2014-06-15 01:05:13 +0800
+date: 2018/7/18 21:08:13  +0800
 layout: post
-permalink: /blog/2014/06/15/in-the-rain.html
+permalink: /blog/2018/7/18 kafuka.html
 categories:
   - java
 tags:
