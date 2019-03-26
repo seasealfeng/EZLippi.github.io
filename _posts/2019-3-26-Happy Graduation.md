@@ -25,5 +25,5 @@ tags:
 但总得来说，生活不总是这样吗？收获总是有的，陪伴也是有的。但这个阶段就像是东逝之流水，西去之落霞一样不会再有。
 
 庆幸有良师和贤惠的她陪我度过，给予帮助。
-![](https://github.com/seasealfeng/seasealfeng.github.io/blob/master/images/wuzhi.JPG)
+![](https://github.com/seasealfeng/seasealfeng.github.io/blob/master/images/wuzhi.JPG?raw=true)
 
