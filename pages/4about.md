@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "关于：About"
+layout: page
+title: "About"
 ---
 
 ## 个人简介：
