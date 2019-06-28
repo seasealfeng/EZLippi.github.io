@@ -31,11 +31,11 @@ description: ""
 github:
   username: seasealfeng
 swiftype:
-  searchId: iXZyPokVfxFaBTvi64Y6
+  searchId: 
 gitment:
     repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    client_id: 
+    client_secret: 
 
 url: "https://seasealfeng.github.io/"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
