@@ -34,8 +34,8 @@ swiftype:
   searchId: 
 gitment:
     repo: blog
-    client_id: 
-    client_secret: 
+    client_id: 1554594c3632d8e5ea76
+    client_secret: d0fdb861d50c00d50ea92354b6d00ffe1af24c39
 
 url: "https://seasealfeng.github.io/"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
