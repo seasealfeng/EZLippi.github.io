@@ -8,8 +8,8 @@ categories:
 tags:
   - 诗
 ---
-<center>**窗外的夏天**<center>
-
+## 窗外的夏天 ##
+> 顾城
 
 那个声音在窗外哭了好久
 
